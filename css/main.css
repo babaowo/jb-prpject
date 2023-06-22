@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white
+}
+
+
+
+
+
+/* Login Container */
+.box-area{
+    width: 930px;
+}
+
+
+
+
+
+/* Left Box */
+
+
+
+/* placeholder */
+::placeholder{
+    font-size: 10px;
+}
+
+
+
+/* Right Box */
+.p{
+    
+}
+.right-box{
+    padding: 40px 30px 40px
+}
